@@ -8,6 +8,7 @@ public class JavaTest {
 		System.out.println("gogogo");
 		System.out.println("transfer to JR line.");
 		System.out.println("now through JR line.");
+		System.out.println("now this is main branch");
 	}
 
 }
